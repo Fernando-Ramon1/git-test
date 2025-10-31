@@ -2,7 +2,7 @@
 Este é meu primeiro repositório no GitHub
 
 ## Sobre o projeto
-- Repositório de teste para aprender Git e GitHub.
+Repositório de teste para aprender Git e GitHub.
 
 ## Tecnologias
 - Git
@@ -11,5 +11,6 @@ Este é meu primeiro repositório no GitHub
 
 ## Autor
 Fernando Ramon
+
 
 
